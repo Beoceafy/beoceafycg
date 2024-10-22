@@ -1,0 +1,14 @@
+name: mybinder_env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=
+  - openjdk
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - jupyterlab
+  - ipykernel
+  - scikit-learn
